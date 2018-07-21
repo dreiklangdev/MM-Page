@@ -8,6 +8,6 @@
 
 ![screenshot2](https://github.com/dreiklangdev/MeloMelo-Page/raw/master/img/screen2_framed.png "Screenshot2")
 
-![screenshot3](https://github.com/dreiklangdev/MeloMelo-Page/raw/master/img/screen3_framed.png "Screenshot3")
+![screenshot3](https://github.com/dreiklangdev/MeloMelo-Page/raw/master/img/screen3_framed.png?2 "Screenshot3")
 
 ![screenshot4](https://github.com/dreiklangdev/MeloMelo-Page/raw/master/img/screen4_framed.png "Screenshot4")
