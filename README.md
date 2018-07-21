@@ -1,7 +1,5 @@
 # MeloMelo - interactive storytelling
 
-(Test Phase)
-
-Android: [**Download**](https://huy-le.de/melomelo/latest.apk)
+Android: [**Download**](https://huy-le.de/melomelo/latest.apk) (Test Version)
 
 iOS: coming soon
