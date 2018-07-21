@@ -4,4 +4,4 @@
 
 Android: [**Download**](https://huy-le.de/melomelo/latest.apk)
 
-iOS: **coming soon**
+iOS: coming soon
