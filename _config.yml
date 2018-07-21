@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: MeloMelo
-description: /img/logo.png
-logo: [Location of the logo]
+description: 
+logo: /img/logo.png
 show_downloads: false
