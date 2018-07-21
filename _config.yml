@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: MeloMelo
-description: interactive storytelling
+description: /img/logo.png
+logo: [Location of the logo]
+show_downloads: false
