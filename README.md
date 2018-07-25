@@ -1,7 +1,7 @@
 # MeloMelo
 ## - interactive storytelling
 
-* Android: [Download Latest Version](http://huy-le.de/melomelo/latest.apk)
+* Android: [Download Latest Test Version](http://huy-le.de/melomelo/latest.apk)
 * iOS: coming soon
 
 ![screenshot1](https://github.com/dreiklangdev/MeloMelo-Page/raw/master/img/screen1_framed.png "Screenshot1")
