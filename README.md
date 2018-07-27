@@ -4,8 +4,7 @@
 * Android: [Download Latest Test Version](http://huy-le.de/melomelo/latest.apk)
 * iOS: coming soon
 
-
-## Unendliche Geschichten.
+<h3 style="text-align: center;" >Endless stories.</h3>
 
 ![screenshot1](https://github.com/dreiklangdev/MeloMelo-Page/raw/master/img/screen1_framed.png "Screenshot1")
 
