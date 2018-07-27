@@ -17,7 +17,7 @@
 
 <h2 style="text-align: center;" >Messenger-Style.</h2>
 
-![screenshot5](https://github.com/dreiklangdev/MeloMelo-Page/raw/master/img/screen6_framed.png "Screenshot5")
+![screenshot5](https://github.com/dreiklangdev/MeloMelo-Page/raw/master/img/screen6_framed.png?2 "Screenshot5")
 
 <h2 style="text-align: center;" >Read.</h2>
 
