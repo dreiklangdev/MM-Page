@@ -1,8 +1,15 @@
 # MeloMelo
 ## storytelling. together.
 
-* Android: [Download Latest Test Version](http://huy-le.de/melomelo/latest.apk)
+### Download
+* Android: [Download](https://play.google.com/apps/testing/com.dreiklang.melomelo)
 * iOS: coming soon
+
+### Links
+* [Facebook Page](https://www.facebook.com/app.melomelo/)
+* [Messenger](https://www.m.me/app.melomelo)
+
+
 
 <h2 style="text-align: center;" >Endless stories.</h2>
 
