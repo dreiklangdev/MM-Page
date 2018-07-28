@@ -1,8 +1,8 @@
 # MeloMelo: storytelling. together.
 
 ### Download
-* Android Play Store: invite-only ([Become Tester](https://plus.google.com/u/0/communities/106442775206617704261))
-* Direkt: http://the.melomelo.app/alpha/android
+* Android Play Store:[invite-only](https://plus.google.com/u/0/communities/106442775206617704261)
+* Direkt: [Link](http://the.melomelo.app/alpha/android)
 * iOS: coming soon
 
 ### Links
