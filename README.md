@@ -1,7 +1,8 @@
 # MeloMelo: storytelling. together.
 
 ### Download
-* Android: [Download](https://play.google.com/apps/testing/com.dreiklang.melomelo)
+* [Android](https://play.google.com/apps/testing/com.dreiklang.melomelo) (only Alpha Tester: Become [Tester](https://plus.google.com/u/0/communities/106442775206617704261))
+
 * iOS: coming soon
 
 ### Links
