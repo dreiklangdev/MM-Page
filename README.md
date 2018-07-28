@@ -1,5 +1,4 @@
-# MeloMelo
-## storytelling. together.
+# MeloMelo: storytelling. together.
 
 ### Download
 * Android: [Download](https://play.google.com/apps/testing/com.dreiklang.melomelo)
