@@ -8,7 +8,7 @@
 ### Links
 * [Facebook Page](https://www.facebook.com/app.melomelo/)
 * [Messenger](https://www.m.me/app.melomelo)
-* [Mail](mail@melomelo.app)
+* [Mail](mailto:mail@melomelo.app)
 
 
 <h2 style="text-align: center;" >Endless stories.</h2>
