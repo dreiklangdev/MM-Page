@@ -12,8 +12,6 @@
 
 [![fb-video](https://github.com/dreiklangdev/MeloMelo-Page/blob/master/img/fb_video_screenshot.png?raw=true)](https://www.facebook.com/app.melomelo/videos/264963247619432)
 
-![fb-video](https://github.com/dreiklangdev/MeloMelo-Page/blob/master/img/fb_video_screenshot.png?raw=true "Fb-Video")
-
 <h2 style="text-align: center;" >Endless stories.</h2>
 
 ![screenshot1](https://github.com/dreiklangdev/MeloMelo-Page/raw/master/img/screen1_framed.png "Screenshot1")
