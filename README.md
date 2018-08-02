@@ -2,7 +2,7 @@
 
 ### Download
 * Android (Play Store): [Invite-only](http://the.melomelo.app/android/join)
-* Android (Direkt): [Link](http://the.melomelo.app/android/apk)
+* Android (Direkt): [Link](http://dl.melomelo.app/android/apk)
 * iOS: coming soon
 
 ### Links
@@ -10,6 +10,7 @@
 * [Messenger](https://www.m.me/app.melomelo)
 * [Mail](mailto:mail@melomelo.app)
 
+[![fb-video](https://github.com/dreiklangdev/MeloMelo-Page/blob/master/img/fb_video_screenshot.png?raw=true)](https://www.facebook.com/app.melomelo/videos/264963247619432)
 
 <h2 style="text-align: center;" >Endless stories.</h2>
 
