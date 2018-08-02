@@ -2,7 +2,7 @@
 
 ### Download
 * Android (Play Store): [Invite-only](http://the.melomelo.app/android/join)
-* Android (Direkt): [Link](http://the.melomelo.app/android/apk)
+* Android (Direkt): [Link](http://dl.melomelo.app/android/apk)
 * iOS: coming soon
 
 ### Links
