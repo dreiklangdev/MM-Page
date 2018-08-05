@@ -1,4 +1,4 @@
-# MeloMelo: storytelling. together.
+# MeloMelo: Geschichten erzählen. Gemeinsam.
 
 ### Download
 * Android (Play Store): [Invite-only](http://the.melomelo.app/android/join)
