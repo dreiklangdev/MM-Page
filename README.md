@@ -42,4 +42,4 @@
 
 ![screenshot4](https://github.com/dreiklangdev/MeloMelo-Page/raw/master/img/screen4_framed.png "Screenshot4")
 
-Theme by [orderedlist](https://github.com/orderedlist)
+<p style="text-align: center;" >Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
