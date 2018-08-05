@@ -18,15 +18,15 @@
 
 ![screenshot6](https://github.com/dreiklangdev/MeloMelo-Page/raw/master/img/screen6_framed.png?2 "Screenshot6")
 
-<h2 style="text-align: center;" >Endlos viele Möglichkeiten - du entscheidest.</h2>
+<h2 style="text-align: center;" >Veröffentliche dein Talent.</h2>
 
 ![screenshot5](https://github.com/dreiklangdev/MeloMelo-Page/raw/master/img/screen5_framed.png "Screenshot5")
 
-<h2 style="text-align: center;" >Veröffentliche dein Talent.</h2>
+<h2 style="text-align: center;" >Entdecke wirklich kreative Chat-Stories.</h2>
 
 ![screenshot7](https://github.com/dreiklangdev/MeloMelo-Page/raw/master/img/screen7_framed.png "Screenshot7")
 
-<h2 style="text-align: center;" >Entdecke wirklich kreative Chat-Stories.</h2>
+<h2 style="text-align: center;" >Endlos viele Möglichkeiten - du entscheidest.</h2>
 
 ![screenshot2](https://github.com/dreiklangdev/MeloMelo-Page/raw/master/img/screen2_framed.png "Screenshot2")
 
