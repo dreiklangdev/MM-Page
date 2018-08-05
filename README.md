@@ -1,5 +1,9 @@
 # MeloMelo: Gemeinsam. Geschichten erzählen.
 
+Liebes Internet,
+
+sag mal, wie gut bist du im Geschichten-Erzählen?
+
 ### Download
 * Android (Play Store): [Invite-only](http://the.melomelo.app/android/join)
 * Android (Direkt): [Link](http://dl.melomelo.app/android/apk)
