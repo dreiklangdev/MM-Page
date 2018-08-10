@@ -4,7 +4,7 @@
 
 <a href='https://play.google.com/store/apps/details?id=com.dreiklang.melomelo&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="200" height="78" alt='Jetzt bei Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/de_badge_web_generic.png'/></a>
 
-* iOS: coming soon
+iOS: coming soon
 
 ### Links
 * [Facebook](https://www.facebook.com/app.melomelo/)
