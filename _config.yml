@@ -3,3 +3,5 @@ title: " "
 description: 
 logo: /img/logo2.png
 show_downloads: false
+plugins:
+  - jekyll-seo-tag
