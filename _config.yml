@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: "MeloMelo Messenger: Chat-Stories schreiben. Gemeinsam."
-description: "MeloMelo ist ein Messenger für das Lesen und Schreiben interaktiver Chat-Stories / Chat-Storys."
+description: "MeloMelo ist ein Messenger für das gemeinsame Lesen und Schreiben interaktiver Chat-Stories / Chat-Storys."
 logo: /img/logo2.png
 show_downloads: false
 plugins:
