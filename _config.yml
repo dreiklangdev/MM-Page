@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: " "
-description: 
+title: "MeloMelo: chat stories erzählen. gemeinsam."
+description: "MeloMelo ist zum Lesen und Schreiben interaktiver Chat-Stories / Chat-Storys."
 logo: /img/logo2.png
 show_downloads: false
 plugins:
